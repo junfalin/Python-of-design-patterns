@@ -1,0 +1,2 @@
+# Python_of_design_patterns
+试着使用python实现23三种设计模式
