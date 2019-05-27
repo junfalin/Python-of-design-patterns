@@ -1,9 +1,6 @@
 # 抽象工厂模式
-from abc import ABCMeta, abstractmethod
 
-
-class Sender(metaclass=ABCMeta):
-    @abstractmethod
+class Sender(object):
     def auto_send(self):
         pass
 
@@ -18,10 +15,8 @@ class MailSender(Sender):
         print('i am mail sender')
 
 
-class SenderProduce(metaclass=ABCMeta):
-    @abstractmethod
-    def produce(self):
-        pass
+class SenderProduce(object):
+    def produce(self):pass
 
 
 class SendMailFactory(SenderProduce):

@@ -1,6 +1,4 @@
 #单例模式
-#https://www.cnblogs.com/linxiyue/p/3902256.html
-#https://www.code-learner.com/how-to-use-python-__new__-method-example/
 #最简单的方法 python中的模块module在程序中只被加载一次，本身就是单例的
 """
 class singleton(object):

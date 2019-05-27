@@ -1,9 +1,7 @@
 # 工厂方法模式
-from abc import ABCMeta,abstractmethod
-class Sender(metaclass=ABCMeta):
-    @abstractmethod
-    def auto_send(self):
-        pass
+
+class Sender(object):
+    def auto_send(self):pass
 
 
 class SmsSender(Sender):
