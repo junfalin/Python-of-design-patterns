@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="163d20bb-f7e7-4bee-a06b-98958227975d" name="matrix" url="http://120.79.8.150">
+        <fileTransfer host="120.79.8.150" port="22" rootFolder="/home/faith/GIT/matrix/order" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

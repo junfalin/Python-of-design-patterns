@@ -1,25 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4c5a51e-a086-484a-9e32-1e9ecff0b108" name="Default Changelist" comment="" />
+    <list default="true" id="e4c5a51e-a086-484a-9e32-1e9ecff0b108" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action_type/chain_of_responsibility_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/action_type/chain_of_responsibility_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/action_type/command_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/action_type/command_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_type/abstract_factory_ pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_type/abstract_factory_ pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure_type/bridge_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_type/bridge_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure_type/composite_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_type/composite_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure_type/decorator_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_type/decorator_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure_type/facade_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_type/facade_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure_type/fyweight_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_type/fyweight_pattern.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/structure_type/proxy_pattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/structure_type/proxy_pattern.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/facade_pattern.py">
+        <entry file="file://$PROJECT_DIR$/action_type/interpreter_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/iterator_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/mediator_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/memento_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/observer_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/state_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/strategy_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/template_method_pattern.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/action_type/visitor_pattern.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/abstract_factory_ pattern.py">
+        <entry file="file://$PROJECT_DIR$/create_type/builder_pattern.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="273">
+              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -32,6 +101,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,14 +132,21 @@
         <option value="$PROJECT_DIR$/fyweight_pattern.py" />
         <option value="$PROJECT_DIR$/bridge_pattern.py" />
         <option value="$PROJECT_DIR$/abstract_factory_ pattern.py" />
+        <option value="$PROJECT_DIR$/create_type/abstract_factory_ pattern.py" />
+        <option value="&lt;163d20bb-f7e7-4bee-a06b-98958227975d&gt;/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/structure_type/proxy_pattern.py" />
+        <option value="$PROJECT_DIR$/structure_type/facade_pattern.py" />
+        <option value="$PROJECT_DIR$/structure_type/fyweight_pattern.py" />
+        <option value="$PROJECT_DIR$/structure_type/bridge_pattern.py" />
+        <option value="$PROJECT_DIR$/structure_type/composite_pattern.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="127" />
+    <option name="x" value="377" />
+    <option name="y" value="15" />
     <option name="width" value="1440" />
-    <option name="height" value="774" />
+    <option name="height" value="775" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -79,8 +158,23 @@
         <subPane>
           <expand>
             <path>
-              <item name="PyDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyDesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_of_design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_of_design_patterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_of_design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_of_design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="action_type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_of_design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_of_design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="create_type" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_of_design_patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_of_design_patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structure_type" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -89,7 +183,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -107,6 +207,104 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.composite_pattern">
+    <configuration name="bridge_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_Design_pattern" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure_type" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structure_type/bridge_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="composite_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_Design_pattern" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure_type" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structure_type/composite_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="facade_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_Design_pattern" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure_type" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structure_type/facade_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="proxy_pattern" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py_Design_pattern" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/structure_type" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/structure_type/proxy_pattern.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.composite_pattern" />
+        <item itemvalue="Python.bridge_pattern" />
+        <item itemvalue="Python.facade_pattern" />
+        <item itemvalue="Python.proxy_pattern" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -120,21 +318,23 @@
       <workItem from="1558841475876" duration="1465000" />
       <workItem from="1558872551183" duration="546000" />
       <workItem from="1558873160844" duration="13000" />
+      <workItem from="1559042521943" duration="4801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2024000" />
+    <option name="totallyTimeSpent" value="6825000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1816354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -143,89 +343,138 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286119" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Remote Host" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.22788204" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_of_design_patterns$facade_pattern.coverage" NAME="facade_pattern Coverage Results" MODIFIED="1559046220910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_type" />
+    <SUITE FILE_PATH="coverage/Python_of_design_patterns$composite_pattern.coverage" NAME="composite_pattern Coverage Results" MODIFIED="1559047465231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_type" />
+    <SUITE FILE_PATH="coverage/Python_of_design_patterns$proxy_pattern.coverage" NAME="proxy_pattern Coverage Results" MODIFIED="1559045869861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_type" />
+    <SUITE FILE_PATH="coverage/Python_of_design_patterns$bridge_pattern.coverage" NAME="bridge_pattern Coverage Results" MODIFIED="1559046683030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/structure_type" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/singleton_pattern.py">
+    <entry file="file://$PROJECT_DIR$/singleton_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/factory_method_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/template_method_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/builder_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/proxy_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/prototype_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/mediator_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/command_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/chain_of_responsibility_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/decorator_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/strategy_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/adapter_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/iterator_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/composite_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/visitor_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/memento_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/observer_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/state_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/interpreter_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/fyweight_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/bridge_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/facade_pattern.py" />
+    <entry file="file://$PROJECT_DIR$/abstract_factory_ pattern.py" />
+    <entry file="file://$PROJECT_DIR$/structure_type/facade_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure_type/decorator_pattern.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/factory_method_pattern.py">
+    <entry file="file://$PROJECT_DIR$/structure_type/adapter_pattern.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/template_method_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/structure_type/fyweight_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/builder_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/create_type/abstract_factory_ pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxy_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/structure_type/proxy_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="13" column="29" lean-forward="true" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/prototype_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mediator_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/command_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chain_of_responsibility_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/strategy_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/adapter_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iterator_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composite_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/visitor_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/memento_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/observer_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/state_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interpreter_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fyweight_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bridge_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facade_pattern.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/abstract_factory_ pattern.py">
+    <entry file="file://$PROJECT_DIR$/action_type/chain_of_responsibility_pattern.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure_type/bridge_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structure_type/composite_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/command_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/interpreter_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/iterator_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/mediator_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/memento_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/observer_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/state_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/strategy_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/template_method_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/action_type/visitor_pattern.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_type/builder_pattern.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>

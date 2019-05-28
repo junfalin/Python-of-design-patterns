@@ -16,7 +16,7 @@ class MailSender(Sender):
 
 
 class SenderProduce(object):
-    def produce(self):pass
+    def produce(self): pass
 
 
 class SendMailFactory(SenderProduce):
