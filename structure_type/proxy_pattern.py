@@ -1,5 +1,8 @@
 # 代理模式
 class Source(object):
+    def __init__(self):
+        self.name = "source"
+
     def method(self): pass
 
 
@@ -10,7 +13,7 @@ class MySource(Source):
 
 class Proxy(Source):
     def __init__(self):
-        super(Proxy, self).__init__()
+        super().__init__()
         self.source = MySource()
 
     def method(self):
@@ -28,3 +31,4 @@ class Proxy(Source):
 if __name__ == '__main__':
     proxy = Proxy()
     proxy.method()
+    print(proxy.name)

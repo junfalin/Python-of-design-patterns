@@ -11,7 +11,7 @@ class Singleton(object):
     def __new__(cls,*args,**kwargs):
         if not hasattr(cls,'_inst'):
             #cls._inst = super(Singleton, cls).__new__(cls,*args,**kwargs) #python2
-            cls._inst = super(Singleton, cls).__new__(cls) #python3
+            cls._inst = super().__new__(cls) #python3
         return cls._inst
 
 
