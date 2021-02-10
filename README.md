@@ -79,7 +79,7 @@ if __name__ == "__main__":
     commander.issue()
 ```
 ---
-####解释器模式
+#### 解释器模式
 ```
 class Expression(object):
     def interpret(self):pass
@@ -160,7 +160,7 @@ if __name__ == "__main__":
         print(f"{it.previous()}")
 ```
 ---
-####中介者模式
+#### 中介者模式
 ```
 #顾名思义
 
@@ -242,7 +242,7 @@ if __name__ == "__main__":
 
 ```
 ---
-####观察者模式
+#### 观察者模式
 ```
 class Observer(object):
     def action(self):pass
@@ -281,7 +281,7 @@ if __name__ == "__main__":
     publish.operation()
 ```
 ---
-####状态模式
+#### 状态模式
 ```
 
 class State:
@@ -331,7 +331,7 @@ if __name__ == "__main__":
     
 ```
 ---
-####策略模式
+#### 策略模式
 ```
 
 
@@ -413,7 +413,7 @@ if __name__ == "__main__":
     yellow_people.active()
 ```
 ---
-####访问者模式
+#### 访问者模式
 ```
 
 
@@ -577,7 +577,7 @@ if __name__ == "__main__":
     print(f"point2:id {id(point2)};{point2.__dict__}")
 ```
 ---
-####单例模式
+#### 单例模式
 ```
 #最简单的方法 python中的模块module在程序中只被加载一次，本身就是单例的
 """
@@ -784,7 +784,7 @@ if __name__ == "__main__":
     obj.do_something()
 ```
 ---
-####门面模式
+#### 门面模式
 ```
 
 class CPU(object):
